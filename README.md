@@ -46,3 +46,5 @@ Here is everything needed to make it.
 | 50 | 1N4148 Diodes | DO-35 through-hole diode | $ 0.43 | [LCSC](https://www.lcsc.com/product-detail/Switching-Diodes_luJing-1N4148_C49318123.html) |
 | 2 | TRRS Port | Allows the halves to communicate | $ 0.13 | [LCSC](https://www.lcsc.com/product-detail/C22355837.html) |
 | 1 | TRRS Male to Male Cable | Cable | $ 5.00 | [HolyKeebs](https://holykeebs.com/products/trrs-cable?variant=50301002875170) |
+
+Total = 92.87
